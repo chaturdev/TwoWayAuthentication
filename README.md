@@ -1,0 +1,2 @@
+# TwoWayAuthentication
+queryObject.token
