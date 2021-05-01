@@ -8,7 +8,7 @@ npm start senderEmail senderPassword
 Server will be up on 8000 port
 
 ## API
-/create post api will be used to create user (pass:- email and password)
-/login post api (pass:- email and password)
-/verify get api (just check the mail it will authenticate token)
+/create post api will be used to create user (pass:- email and password) \n
+/login post api (pass:- email and password) \n
+/verify get api (just check the mail it will authenticate token) \n
 
